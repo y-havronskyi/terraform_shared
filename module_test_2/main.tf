@@ -2,5 +2,5 @@
 
 output "message" {
   description = "Test output message from module 2"
-  value       = "Hello from Module 2. Initial version"
+  value       = "Hello from Module 2. Version v0.2.0"
 }
